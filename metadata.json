@@ -1,0 +1,5 @@
+{
+  "name": "SPX Booking",
+  "description": "Um aplicativo para solicitar e acompanhar reservas da Sala Prospectiva (SPX) para colaboradores internos do Sistema FIEP.",
+  "requestFramePermissions": []
+}
